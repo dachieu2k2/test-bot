@@ -1,1 +1,1 @@
-bot: py telegram_bot_904.py
+bot: python telegram_bot_904.py
